@@ -1,0 +1,31 @@
+body{
+   background-color: rebeccapurple;
+   color: white;
+}
+
+h1{
+   padding: 20px 0;
+}
+
+.box {
+   height: 80px;
+   width: 80px;
+   margin: 20px;
+   background-color: rgb(245, 245, 245);
+   color: black;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 0px 0px 25px 10px rgba(0,0,0,0); 
+   box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 0px 0px 25px 10px rgba(0,0,0,0);
+}
+/* box multipli js */
+.mult3 {
+   background-color: chocolate;
+}
+.mult5 {
+   background-color: darkgreen;
+}
+.mult3-5 {
+   background-color: darkred;
+}
